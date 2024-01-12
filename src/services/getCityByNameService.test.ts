@@ -1,5 +1,5 @@
 
-import { mockCityAPIResponse } from '@__tests__/mocks/mockCityAPIResponses'
+import { mockCityAPIResponse } from '@__tests__/mocks/api/mockCityAPIResponses'
 import { api } from './api'
 import { getCityByNameService } from './getCityByNameService'
 
